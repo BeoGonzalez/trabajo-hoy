@@ -1,3 +1,4 @@
+#Trabajo de Martín Díaz, Benjamín González y Vicente Ruiz
 import funciones as funcion
 import time
 
